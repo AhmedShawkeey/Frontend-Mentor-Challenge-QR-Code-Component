@@ -1,5 +1,9 @@
 # Frontend Mentor - QR code component
 
+## Preview 👀 https://ahmedshawkeey.github.io/Frontend-Mentor-Challenge-QR-Code-Component/
+
+## Solution Link https://www.frontendmentor.io/solutions/submitted-better-than-the-challenge-itself-without-psd-UU4sNS01P2
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
